@@ -55,7 +55,7 @@ All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that
 1. **Viewing Notebooks:** You can click on any `.ipynb` file to view it directly in GitHub. 
 2. **Local Execution:** If you want to run the code on your own machine:
    ```bash
-
+   git clone https://github.com/mdttech/learning-book-by-tahseen.git
    cd learning-book
    jupyter notebook
 
