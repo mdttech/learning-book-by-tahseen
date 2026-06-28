@@ -30,10 +30,7 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 ## 🐍 Python LB Series
 This section covers everything from the absolute basics of Python to advanced Object-Oriented concepts and Database management.
 
-- [ ] **1. Python Basics:** Variables, Data Types, Loops, Functions.
-- [ ] **2. Python OOPs:** Classes, Objects, Inheritance, Polymorphism.
-- [ ] **3. Python DSA:** Data Structures and Algorithms implemented in Python.
-- [ ] **4. SQL:** Database creation, querying, and management.
+- [ ] Updating...
 
 ---
 
@@ -58,7 +55,7 @@ All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that
 1. **Viewing Notebooks:** You can click on any `.ipynb` file to view it directly in GitHub. 
 2. **Local Execution:** If you want to run the code on your own machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/learning-book.git](https://github.com/YOUR-USERNAME/learning-book.git)
+
    cd learning-book
    jupyter notebook
 
@@ -69,7 +66,7 @@ All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that
 A massive thank you to the creators of the resources that helped me build this knowledge base. Below are the primary books, courses, and documentation I have used:
 
 * [Resource Name 1 - e.g., Python Official Documentation](https://docs.python.org/3/)
-* [Resource Name 2 - e.g., Hands-On Machine Learning with Scikit-Learn](#)
+
 ...
 
 ---
