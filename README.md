@@ -17,6 +17,19 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 
 ---
 
+## Repository Organization
+
+* 📁 **`Python_LB_Series/`** — Python basics, OOP, DSA, and SQL. *(Updating...)*
+* 📁 **`Competitive_Programming_LB_Series/`** — Algorithmic problem-solving. *(Updating...)*
+* 📁 **`Data_Science_AI_ML_LB_Series/`** — AI/ML theory, math, and models. *(Updating...)*
+  * 📁 **`1. Introduction_to_Data_Science/`**
+    * 📄 **`.pdf`**: Comprehensive theory and concept guide.
+    * 📓 **`.ipynb`**: Interactive notebook mirroring the notes.
+    * 📝 **`CONTENT.md`**: Section breakdown and topic summary.
+* 📄 **`README.md`** — Main repository documentation.
+
+---
+
 ## 🧭 Table of Contents
 
 1. [🐍 Python LB Series](#-python-series)
@@ -30,21 +43,29 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 ## 🐍 Python LB Series
 This section covers everything from the absolute basics of Python to advanced Object-Oriented concepts and Database management.
 
-- [ ] Updating...
+| No. | Topic Name | Description |
+| :--- | :--- | :--- |
+| 1 | Updating... | |
 
 ---
 
 ## 🏆 Competitive Programming LB Series
 A collection of algorithms, problem-solving techniques, and solutions to common competitive programming challenges.
 
-- [ ] Updating...
+| No. | Topic Name | Description |
+| :--- | :--- | :--- |
+| 1 | Updating... | |
 
 ---
 
 ## 🤖 Data Science, AI & ML LB Series
 Notes, math concepts, and model implementations for extracting insights from data and building intelligent systems.
 
-- [ ] Updating...
+| No. | Topic Name | Description |
+| :--- | :--- | :--- |
+| 1 | Introduction to Data Science | Explores foundational concepts, core mathematical pillars, machine learning basics, and the end-to-end data science project lifecycle. |
+| 2 | Updating... | |
+
 
 ---
 
@@ -56,7 +77,7 @@ All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that
 2. **Local Execution:** If you want to run the code on your own machine:
    ```bash
    git clone https://github.com/mdttech/learning-book-by-tahseen.git
-   cd learning-book
+   cd learning-book-by-tahseen
    jupyter notebook
 
 ---
