@@ -40,7 +40,7 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 
 ---
 
-## 🐍 Python LB Series
+## 1. 🐍 Python LB Series
 This section covers everything from the absolute basics of Python to advanced Object-Oriented concepts and Database management.
 
 | No. | Topic Name | Description |
@@ -49,7 +49,7 @@ This section covers everything from the absolute basics of Python to advanced Ob
 
 ---
 
-## 🏆 Competitive Programming LB Series
+## 2. 🏆 Competitive Programming LB Series
 A collection of algorithms, problem-solving techniques, and solutions to common competitive programming challenges.
 
 | No. | Topic Name | Description |
@@ -58,7 +58,7 @@ A collection of algorithms, problem-solving techniques, and solutions to common 
 
 ---
 
-## 🤖 Data Science, AI & ML LB Series
+## 3. 🤖 Data Science, AI & ML LB Series
 Notes, math concepts, and model implementations for extracting insights from data and building intelligent systems.
 
 | No. | Topic Name | Description |
@@ -69,7 +69,7 @@ Notes, math concepts, and model implementations for extracting insights from dat
 
 ---
 
-## 🛠️ How to Use This Repo
+## 4. 🛠️ How to Use This Repo
 
 All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that the code, output, and explanatory notes are kept together.
 
@@ -82,7 +82,7 @@ All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that
 
 ---
 
-## 🔗 References & Resources
+## 5. 🔗 References & Resources
 
 A massive thank you to the creators of the resources that helped me build this knowledge base. Below are the primary books, courses, and documentation I have used:
 
