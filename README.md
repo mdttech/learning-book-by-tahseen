@@ -21,42 +21,31 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 
 ---
 
+
 ## 📂 Repository Organization
 
 ```text
 Learning Book (LB)/
 │
-├── 📁 Python/
-│   └── 📓 1_Python(Basic).ipynb
-│       └── Python fundamentals, basic programming concepts, data types, control flow, functions, and core Python operations.
+├── 📁 Python/                         # Python programming
+│   └── 📓 1_Python(Basic).ipynb       # Python basics
 │
-├── 📁 CP/
-│   └── 🚧 Updating...
-│       └── Competitive Programming algorithms, data structures, and problem-solving practice.
+├── 📁 CP/                             # Competitive Programming, Algorithms & problem solving
+│   └── 🚧 Updating...               
 │
-├── 📁 DS/
-│   ├── 📓 1_Introduction_to_Data_Science.ipynb
-│   │   └── Introduction to Data Science concepts, foundations, workflow, and project lifecycle.
-│   │
-│   ├── 📓 2_Python_for_Data_Science.ipynb
-│   │   └── NumPy, Pandas, Matplotlib, Scikit-learn, data manipulation, visualization, and basic ML workflows.
-│   │
-│   ├── 📓 3_Linear_Algebra_using_Python.ipynb
-│   │   └── Vectors, matrices, linear transformations, determinants, rank, and systems of linear equations using Python.
-│   │
-│   ├── 📓 4_Probability_using_Python.ipynb
-│   │   └── Probability fundamentals, conditional probability, Bayes' theorem, random variables, distributions, LLN, and CLT using Python.
-│   │
-│   └── 📓 5_Statistics_using_Python.ipynb
-│       └── Descriptive and inferential statistics, sampling, estimation, MLE, and statistical concepts using Python.
+├── 📁 DS/                             # Data Science
+│   ├── 📓 1_Introduction_to_Data_Science.ipynb  # Data Science foundations
+│   ├── 📓 2_Python_for_Data_Science.ipynb        # Python for Data Science
+│   ├── 📓 3_Linear_Algebra_using_Python.ipynb    # Linear Algebra
+│   ├── 📓 4_Probability_using_Python.ipynb       # Probability
+│   └── 📓 5_Statistics_using_Python.ipynb        # Statistics
 │
-├── 📁 AI_ML/
-│   └── 🚧 Updating...
-│       └── Artificial Intelligence and Machine Learning concepts, models, algorithms, and implementations.
+├── 📁 AI_ML/                          # AI & Machine Learning, ML concepts & implementations
+│   └── 🚧 Updating...               
 │
-└── 📄 README.md
-    └── Main documentation and navigation guide for the Learning Book repository.
+└── 📄 README.md                       # Repository documentation
 ```
+
 
 
 ---
