@@ -4,43 +4,43 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Welcome to my **Learning Book**! This repository serves as my personal digital encyclopedia. Here, you will find my study materials, code snippets, Jupyter Notebooks (`.ipynb`), and PDF notes covering my journey through Programming, Data Science, Artificial Intelligence, and Machine Learning.
+Welcome to my **Learning Book**! This repository serves as my personal digital encyclopedia. Here, you will find my study materials, code snippets, and comprehensive notes covering my journey through Programming, Data Science, Artificial Intelligence, and Machine Learning. 
+
+*Note: All learning materials and code implementations in this repository are exclusively documented using Jupyter Notebooks (`.ipynb`).*
 
 ---
 
 ## 👤 Author
 
 **Tahseen Aslam** 
-*Engineer @IITK*
+*@IITK*
 * [GitHub](https://github.com/mdttech)
 * [LinkedIn](https://www.linkedin.com/in/ttech-mdta)
 
 ---
 
-## Repository Organization
+## 📂 Repository Organization
 
-* 📁 **`Python_LB_Series/`** — Python basics, OOP, DSA, and SQL. *(Updating...)*
-* 📁 **`Competitive_Programming_LB_Series/`** — Algorithmic problem-solving. *(Updating...)*
-* 📁 **`Data_Science_AI_ML_LB_Series/`** — AI/ML theory, math, and models. *(Updating...)*
-  * 📁 **`1. Introduction_to_Data_Science/`**
-    * 📄 **`.pdf`**: Comprehensive theory and concept guide.
-    * 📓 **`.ipynb`**: Interactive notebook mirroring the notes.
-    * 📝 **`CONTENT.md`**: Section breakdown and topic summary.
+* 📁 **`Python/`** — Python basics, OOP, DSA, and SQL. *(Updating...)*
+* 📁 **`CP/`** — Competitive Programming and algorithmic problem-solving. *(Updating...)*
+* 📁 **`DS/`** — Data Science theory, mathematics, and data processing. *(Updating...)*
+* 📁 **`AI_ML/`** — Artificial Intelligence, Machine Learning models, and implementations. *(Updating...)*
 * 📄 **`README.md`** — Main repository documentation.
 
 ---
 
 ## 🧭 Table of Contents
 
-1. [🐍 Python LB Series](#-python-series)
-2. [🏆 Competitive Programming LB Series](#-competitive-programming-series)
-3. [🤖 Data Science, AI & ML LB Series](#-data-science-ai--ml-series)
-4. [🛠️ How to Use This Repo](#-how-to-use-this-repo)
-5. [🔗 References & Resources](#-references--resources)
+1. [🐍 Python Series](#1--python-series)
+2. [🏆 Competitive Programming (CP) Series](#2--competitive-programming-cp-series)
+3. [📊 Data Science (DS) Series](#3--data-science-ds-series)
+4. [🤖 Artificial Intelligence & Machine Learning (AI/ML) Series](#4--artificial-intelligence--machine-learning-aiml-series)
+5. [🛠️ How to Use This Repo](#5-️-how-to-use-this-repo)
+6. [🔗 References & Resources](#6--references--resources)
 
 ---
 
-## 1. 🐍 Python LB Series
+## 1. 🐍 Python Series
 This section covers everything from the absolute basics of Python to advanced Object-Oriented concepts and Database management.
 
 | No. | Topic Name | Description |
@@ -49,7 +49,7 @@ This section covers everything from the absolute basics of Python to advanced Ob
 
 ---
 
-## 2. 🏆 Competitive Programming LB Series
+## 2. 🏆 Competitive Programming (CP) Series
 A collection of algorithms, problem-solving techniques, and solutions to common competitive programming challenges.
 
 | No. | Topic Name | Description |
@@ -58,31 +58,37 @@ A collection of algorithms, problem-solving techniques, and solutions to common 
 
 ---
 
-## 3. 🤖 Data Science, AI & ML LB Series
-Notes, math concepts, and model implementations for extracting insights from data and building intelligent systems.
+## 3. 📊 Data Science (DS) Series
+Notes, math concepts, and methodologies for extracting actionable insights from raw data.
 
 | No. | Topic Name | Description |
 | :--- | :--- | :--- |
-| 1 | Introduction to Data Science | Explores foundational concepts, core mathematical pillars, machine learning basics, and the end-to-end data science project lifecycle. |
+| 1 | Introduction to Data Science | Explores foundational concepts, core mathematical pillars, and the end-to-end data science project lifecycle. |
 | 2 | Updating... | |
-
 
 ---
 
-## 4. 🛠️ How to Use This Repo
+## 4. 🤖 Artificial Intelligence & Machine Learning (AI/ML) Series
+Theory and practical `.ipynb` implementations of intelligent systems and learning algorithms.
 
-All code files are provided in `.ipynb` (Jupyter Notebook) format to ensure that the code, output, and explanatory notes are kept together.
+| No. | Topic Name | Description |
+| :--- | :--- | :--- |
+| 1 | Updating... | |
 
-1. **Viewing Notebooks:** You can click on any `.ipynb` file to view it directly in GitHub. 
-2. **Local Execution:** If you want to run the code on your own machine:
+---
+
+## 5. 🛠️ How to Use This Repo
+
+All files are provided in `.ipynb` (Jupyter Notebook) format to ensure that the executable code, outputs, and explanatory markdown notes are seamlessly kept together.
+
+1. **Viewing Notebooks:** You can click on any `.ipynb` file to view the rendered code and notes directly in GitHub. 
+2. **Local Execution:** If you want to run the code and interact with the notes on your own machine:
    ```bash
-   git clone https://github.com/mdttech/learning-book-by-tahseen.git
+   git clone [https://github.com/mdttech/learning-book-by-tahseen.git](https://github.com/mdttech/learning-book-by-tahseen.git)
    cd learning-book-by-tahseen
    jupyter notebook
 
----
-
-## 5. 🔗 References & Resources
+## 6. 🔗 References & Resources
 
 A massive thank you to the creators of the resources that helped me build this knowledge base. Below are the primary books, courses, and documentation I have used:
 
