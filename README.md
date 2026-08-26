@@ -23,11 +23,41 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 
 ## 📂 Repository Organization
 
-* 📁 **`Python/`** — Python fundamentals, control structures, collections, functions, modules, exception handling, file handling, and exercises.
-* 📁 **`CP/`** — Competitive Programming and algorithmic problem-solving. *(Updating...)*
-* 📁 **`DS/`** — Data Science foundations, Python for Data Science, Linear Algebra, Probability, and Statistics.
-* 📁 **`AI_ML/`** — Artificial Intelligence, Machine Learning models, and implementations. *(Updating...)*
-* 📄 **`README.md`** — Main repository documentation.
+```text
+Learning Book (LB)/
+│
+├── 📁 Python/
+│   └── 📓 1_Python(Basic).ipynb
+│       └── Python fundamentals, basic programming concepts, data types, control flow, functions, and core Python operations.
+│
+├── 📁 CP/
+│   └── 🚧 Updating...
+│       └── Competitive Programming algorithms, data structures, and problem-solving practice.
+│
+├── 📁 DS/
+│   ├── 📓 1_Introduction_to_Data_Science.ipynb
+│   │   └── Introduction to Data Science concepts, foundations, workflow, and project lifecycle.
+│   │
+│   ├── 📓 2_Python_for_Data_Science.ipynb
+│   │   └── NumPy, Pandas, Matplotlib, Scikit-learn, data manipulation, visualization, and basic ML workflows.
+│   │
+│   ├── 📓 3_Linear_Algebra_using_Python.ipynb
+│   │   └── Vectors, matrices, linear transformations, determinants, rank, and systems of linear equations using Python.
+│   │
+│   ├── 📓 4_Probability_using_Python.ipynb
+│   │   └── Probability fundamentals, conditional probability, Bayes' theorem, random variables, distributions, LLN, and CLT using Python.
+│   │
+│   └── 📓 5_Statistics_using_Python.ipynb
+│       └── Descriptive and inferential statistics, sampling, estimation, MLE, and statistical concepts using Python.
+│
+├── 📁 AI_ML/
+│   └── 🚧 Updating...
+│       └── Artificial Intelligence and Machine Learning concepts, models, algorithms, and implementations.
+│
+└── 📄 README.md
+    └── Main documentation and navigation guide for the Learning Book repository.
+```
+
 
 ---
 
