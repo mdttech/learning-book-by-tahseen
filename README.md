@@ -35,8 +35,7 @@ Welcome to my **Learning Book**! This repository serves as my personal digital e
 2. [🏆 Competitive Programming (CP) Series](#2--competitive-programming-cp-series)
 3. [📊 Data Science (DS) Series](#3--data-science-ds-series)
 4. [🤖 Artificial Intelligence & Machine Learning (AI/ML) Series](#4--artificial-intelligence--machine-learning-aiml-series)
-5. [🛠️ How to Use This Repo](#5-️-how-to-use-this-repo)
-6. [🔗 References & Resources](#6--references--resources)
+5. [🔗 References & Resources](#6--references--resources)
 
 ---
 
@@ -77,18 +76,8 @@ Theory and practical `.ipynb` implementations of intelligent systems and learnin
 
 ---
 
-## 5. 🛠️ How to Use This Repo
 
-All files are provided in `.ipynb` (Jupyter Notebook) format to ensure that the executable code, outputs, and explanatory markdown notes are seamlessly kept together.
-
-1. **Viewing Notebooks:** You can click on any `.ipynb` file to view the rendered code and notes directly in GitHub. 
-2. **Local Execution:** If you want to run the code and interact with the notes on your own machine:
-   ```bash
-   git clone [https://github.com/mdttech/learning-book-by-tahseen.git](https://github.com/mdttech/learning-book-by-tahseen.git)
-   cd learning-book-by-tahseen
-   jupyter notebook
-
-## 6. 🔗 References & Resources
+## 5. 🔗 References & Resources
 
 A massive thank you to the creators of the resources that helped me build this knowledge base. Below are the primary books, courses, and documentation I have used:
 
